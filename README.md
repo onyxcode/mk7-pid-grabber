@@ -3,8 +3,19 @@ This is a Principal ID grabber CTRPluginFramework designed for Mario Kart 7 on t
 
 > Anti Spoof is not included in this version, that method will remain private.
 
-# How to use or build the file
-Find out yourself :) people assume that I try to grow my discord while it's only purpose was to have proper written out instructions on how to build 3gx files and how to properly use them. Therefore I'll leave it in your hands to figure out.
+# How to use the plugin
+1. Move the 3GX file to `/luma/plugins/0004000000030800`.
+2. Open Mario Kart 7.
+3. Hold Select to open the menu.
+
+# How to build the file
+
+Get the latest version of:
+- [devkitPro](https://github.com/devkitPro/installer/releases)
+- [Python](https://www.python.org/downloads/)
+- [libctrpf](https://gitlab.com/thepixellizeross/ctrpluginframework/-/releases)
+
+After that, simply run the `build.bat` file and wait until it compiles.
 
 # Reporting bugs or issues
 Just direct message me on Discord.
